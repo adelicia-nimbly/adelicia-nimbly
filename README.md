@@ -1,16 +1,29 @@
-### Hi there 👋
+# About Me
 
-<!--
-**adelicia-nimbly/adelicia-nimbly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌺 [My Personal Site](https://adelicia-js.com/) &nbsp; &nbsp;
+💼 [LinkedIn Profile](https://www.linkedin.com/in/adelicia) &nbsp; &nbsp; &nbsp;
+📄 [My Resume](https://adelicia-js.com/ady-resume.pdf) &nbsp; &nbsp; &nbsp;
+👩🏻‍💻 [Personal GitHub](https://github.com/adelicia-js) &nbsp; &nbsp; &nbsp;
 
-Here are some ideas to get you started:
+### Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩🏽‍🎓 M.Sc. Computer Science, St. Joseph's University, Bengaluru
+
+### Summary
+
+👩🏽‍💻 Web developer, with a passion for building beautiful UI and smooth user experiences. 
+
+🏢 Working as a software developer intern at [Nimbly Technologies](https://hellonimbly.com/).  
+
+### 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adelicia-nimbly&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adelicia-nimbly&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adelicia-nimbly&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adelicia-nimbly&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
